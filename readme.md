@@ -9,12 +9,15 @@ https://developers.google.com/workspace/guides/create-project
 Create credentials:
 https://developers.google.com/workspace/guides/create-credentials
 
-Make sure to download the Credentials as a JSON file when prompted and put the JSON file into the directory and rename it to "credentials.json"
+Make sure to download the Credentials as a JSON file when prompted and put the JSON file into the directory and rename it to `credentials.json`
+
+Run this to install all requirments
+`pip install -r requirements.txt`
 
 ## Use:
 
-To use simply run the script in your favorite IDE.
-A browser tab will open asking you to login to a google account with the appropriate priveleges to access the Google Directory API.
+Simply run the script in your favorite IDE.
+A browser tab will open asking you to login to a google account with the appropriate priveleges to access the Google API.
 
 ## Result:
 
